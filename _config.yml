@@ -8,12 +8,12 @@ prose:
     site/content/post:
       - name: 'description'
         element: 'text'
-        label: 'Description'
+        label: "Description"
         type: 'text'
         value: ''
       - name: 'date'
         element: 'text'
-        label: 'Date'
+        label: "Date"
         type: 'text'
         value: ''
   #metadata:
