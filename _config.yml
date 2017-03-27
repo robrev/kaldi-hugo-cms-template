@@ -1,0 +1,13 @@
+prose:
+  rooturl: '/site/content/'
+  siteurl: 'https://auctioner-monkey-24535.netlify.com'
+  media: '/site/static/img/'
+  ignore: 
+    - .keep
+  metadata:
+    post:
+      - name: 'title'
+        field:
+          element: 'text'
+          label: 'Title'
+          type: 'text'
