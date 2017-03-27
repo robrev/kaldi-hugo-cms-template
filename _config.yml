@@ -7,31 +7,16 @@ prose:
   metadata:
     site/content/post:
       - name: 'description'
-        element: 'text'
-        label: "Description"
-        placeholder: "Description"
-        type: 'text'
-        value: ''
+        field:
+          element: 'text'
+          label: "Description"
+          placeholder: "Description"
+          type: 'text'
+          value: ''
       - name: 'date'
-        element: 'text'
-        label: "Date"
-        placeholder: "Date"
-        type: 'text'
-        value: ''
-  #metadata:
-  #  post:
-  #    - name: 'title'
-  #      field:
-  #        element: 'text'
-  #        label: 'Title'
-  #        type: 'text'
-  #    - name: 'description'
-  #      field:
-  #        element: 'text'
-  #        label: 'Description'
-  #        type: 'text'
-  #    - name: 'date'
-  #      field:
-  #        element: 'text'
-  #        label: 'Date'
-  #        type: 'text'
+        field:
+          element: 'text'
+          label: "Date"
+          placeholder: "Date"
+          type: 'text'
+          value: ''
