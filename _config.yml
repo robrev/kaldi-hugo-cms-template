@@ -4,6 +4,13 @@ prose:
   media: 'site/static/img'
   ignore: 
     - .keep
+  metadata:
+    site/content/post:
+      - name: 'description'
+        element: 'text'
+        label: 'Description'
+        type: 'text'
+        value: ''
   #metadata:
   #  post:
   #    - name: 'title'
