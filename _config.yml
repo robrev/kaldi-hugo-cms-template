@@ -11,6 +11,9 @@ prose:
           element: 'text'
           label: 'Title'
           type: 'text'
+      - name: 'description'
+        element: 'text'
+        label: 'Description'
       - name: 'date'
         field:
           element: 'text'
