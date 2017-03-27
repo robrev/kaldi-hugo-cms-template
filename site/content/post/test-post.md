@@ -1,7 +1,6 @@
 ---
 title: Test Post
-date: 2017-03-25T16:17:03.746Z
-description: This is a test post
+description: This is a test post with updated description
 image: /img/IMG_0304.jpg
 published: true
 ---
@@ -14,5 +13,5 @@ It's pretty fun to make edits to a site this way
 
 > here's a blockquote
 
-![Stanley.jpg]({{site.baseurl}}/site/content/post/Stanley.jpg)
+![logo.png]({{site.baseurl}}/site/static/img/logo.png)
 
