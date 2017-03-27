@@ -1,7 +1,7 @@
 prose:
-  rooturl: '/site/content/'
+  rooturl: 'site/content'
   siteurl: 'https://auctioner-monkey-24535.netlify.com'
-  media: '/site/static/img/'
+  media: 'site/static/img'
   ignore: 
     - .keep
   metadata:
