@@ -11,6 +11,11 @@ prose:
         label: 'Description'
         type: 'text'
         value: ''
+      - name: 'date'
+        element: 'text'
+        label: 'Date'
+        type: 'text'
+        value: ''
   #metadata:
   #  post:
   #    - name: 'title'
