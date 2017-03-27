@@ -13,5 +13,5 @@ It's pretty fun to make edits to a site this way
 
 > here's a blockquote
 
-![logo.png]({{site.baseurl}}/site/static/img/logo.png)
+![logo.png]({{site.baseurl}}/uploads/logo.png)
 
