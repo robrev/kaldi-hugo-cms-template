@@ -9,11 +9,13 @@ prose:
       - name: 'description'
         element: 'text'
         label: "Description"
+        placeholder: "Description"
         type: 'text'
         value: ''
       - name: 'date'
         element: 'text'
         label: "Date"
+        placeholder: "Date"
         type: 'text'
         value: ''
   #metadata:
